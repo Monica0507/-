@@ -7,8 +7,7 @@ image: "assets/images/1.JPG"
 #### 石一尔洗，出生于2009.1.20。2020年9月加入强棒基地，老家在四川凉山州。她有一双小猴子一样的扇风耳，也像小猴子一样的俏皮活泼，爱说爱笑爱劳动。她的笑容可以感染很多人!  
 
 
-
-## 美少女问答时间  
+### 美少女问答时间  
 
 ![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojtzqv1igj20k00dcaar.jpg)
 * 她平时的兴趣爱好有哪些呢？  
@@ -52,3 +51,29 @@ image: "assets/images/1.JPG"
 
 * 如果没有棒球，你觉得你的人生是什么样子？  
     可能在家里继续上学，上完学后继续在家做点什么生活。
+
+
+### 强棒介绍  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojx9qsm2nj20p40hijwl.jpg)
+
+> 强棒基地由前国家棒球队队长孙岭峰与爱心人士联合筹资建设，创建中国第一支公益棒球队。基地主要资助对象为全国范围内 7-10 岁困境儿童，通过专业的棒球技能获得职业发展方向和未来的就业机会。截止到 2020 年11月，项目共资助困境儿童80名，其中女孩 26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可.  
+
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxau4vesj20p80jsn39.jpg)
+>2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxba8krej20yy0f6n2v.jpg)  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxbqptwqj21020fy7a2.jpg)  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxccxsfkj20yy0q448l.jpg)   
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxd3eyxdj21060fktcr.jpg)  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxdkx457j20y40pedp4.jpg)  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxe33a9uj20z40hcjzp.jpg)  
+
+![石一尔洗](https://tva1.sinaimg.cn/large/e6c9d24ely1gojxehtxj4j20za0le7ca.jpg) 
+
