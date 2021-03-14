@@ -5,8 +5,6 @@ image: "assets/images/1.JPG"
  
 
 #### 石一尔洗，出生于2009.1.20。2020年9月加入强棒基地，老家在四川凉山州。她有一双小猴子一样的扇风耳，也像小猴子一样的俏皮活泼，爱说爱笑爱劳动。她的笑容可以感染很多人!  
-![字节跳动](https://tva1.sinaimg.cn/large/e6c9d24ely1gojtvml44yj20eu08cjru.jpg)  
-
 
 
 
